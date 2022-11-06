@@ -6,6 +6,17 @@ body {
   align-items: center;
 }
 
+body.active {
+  background: #191919;
+  color: #9b27e4;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+/* Switch for toggling dark theme */
+
 #switch {
   position: relative;
   margin: 20px auto 0;
@@ -43,14 +54,7 @@ body {
   background: whitesmoke;
 }
 
-h1 {
-  font-family: "Courier New", Courier, monospace;
-}
-
-body.active {
-  background: #191919;
-  color: #9b27e4;
-}
+/* StopWatch Container */
 
 #watch-container {
   margin: 70px auto;
@@ -66,6 +70,8 @@ body.active {
   background-color: #252323;
   border: 1px solid 9b27e4;
 }
+
+/* Time Container */
 
 #time-container {
   height: 100px;
@@ -113,6 +119,8 @@ button {
   border: none;
 }
 
+/* start button */
+
 #start {
   background-color: #17ae38;
   box-shadow: 6px -6px 8px #9d9d9d, -6px 6px 8px #ffffff;
@@ -132,6 +140,8 @@ button {
   background-color: #3f0071;
 }
 
+/* stop button */
+
 #stop {
   background-color: #ae1717;
 }
@@ -148,6 +158,8 @@ button {
   box-shadow: none;
   border: 1px solid white;
 }
+
+/* reset button */
 
 #reset {
   background-color: #2e80b3;
