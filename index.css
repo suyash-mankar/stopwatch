@@ -62,9 +62,9 @@ body.active {
 }
 
 #watch-container.active {
-  box-shadow: 0px 0px 10px 5px #c7c7c7;
+  box-shadow: 0px 0px 10px 2px #9b27e4;
   background-color: #252323;
-  border: 1px solid white;
+  border: 1px solid 9b27e4;
 }
 
 #time-container {
@@ -81,7 +81,7 @@ body.active {
 }
 
 #time-container.active {
-  box-shadow: 0px 0px 10px 1px #c7c7c7;
+  box-shadow: 0px 0px 10px 2px #9b27e4;
   background-color: #1c1b1b;
   border: 1px solid white;
 }
