@@ -4,6 +4,21 @@
 - The functionalities of Start, Stop, and Reset are accessible by a click of a button.
 - To enhance the visual appearance it can be viewed in both dark and light modes, making it easier to access at all times, along with having a responsive website inorder to maximize the user experience.
 
+## Features
+
+● Start timer
+
+- On click of start button, the timer will start
+- If timer is 0, start from beginning else it will start from wherever last stopped
+
+● Stop timer
+
+- Timer will stop once clicked on the stop button
+
+● Reset button
+
+- On click of reset, stop the watch (if already started) and timer will be set to 0
+
 ## Screenshots
 
 ### Light Mode
