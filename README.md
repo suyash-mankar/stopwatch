@@ -16,7 +16,9 @@
 
 ## Tech Stack
 
-<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="drawing" width="200"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="drawing" width="100"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="drawing" width="100"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="drawing" width="100"/>
 
 ## Project
 
