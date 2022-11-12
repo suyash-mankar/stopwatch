@@ -19,6 +19,10 @@
 
 - On click of reset, stop the watch (if already started) and timer will be set to 0
 
+● Toggle theme
+
+- Toggle between dark and light theme using the toggle theme switch
+
 ## Screenshots
 
 ### Light Mode
